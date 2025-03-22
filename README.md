@@ -32,8 +32,7 @@ This project is a **Movie Recommender System** built using **Streamlit** and dep
 ## 📥 Installation & Setup
 1. Clone the repository:
 ```
-git clone https://github.com/rohitnitj/movie-recommender-system.git
-cd movie-recommender-system
+git clone https://github.com/rohitnitj/mrs-rohit.git
 ```
 
 2. Install dependencies:
